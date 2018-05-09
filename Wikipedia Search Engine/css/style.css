@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+}
+.heading{
+  border-radius:25px;
+  margin:1%;
+  padding:1%;
+  display:inline-block;
+  font-family:'Londrina Solid', cursive;
+}
+.heading img{
+  background-color:#0099cc;
+  border-radius:25px;
+  display:inline-block;
+  font-family:'Londrina Solid';
+  width:300px;
+  height:300px;
+}
+a { color: inherit; 
+} 
+h2{
+  color:black;
+  padding-left:1%;
+  padding-top:1%;
+  font-family:Times New Roman;
+}
+p{
+  padding-bottom: 1%;
+  padding-left:1%;
+  font-size:25px;
+}
+div{
+  border-radius:25px;
+}
+
+#output{
+ margin-top:1%;
+  border-radius:25px;
+  font-family:'Londrina Solid', cursive;
+}
